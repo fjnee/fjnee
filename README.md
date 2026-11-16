@@ -14,13 +14,13 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </p>
 
 <h4 align="center">
-  <samp><strong><mark>I like to build performant projects.</mark></strong></samp>
+  <samp><strong><mark> into agentic ai and backend stuffs.</mark></strong></samp>
 </h4>
 
 
 <p align="center">
   <samp>
-  <strong>  @ me on </strong> <a href="https://x.com/t1oska">fjnee</a><br><br>
+  <strong>  @ me on </strong> <a href="https://x.com/truebloss">fjnee</a><br><br>
     <img src="https://i.pinimg.com/736x/9b/35/47/9b3547b4e0d675548caf3dc626aa5b80.jpg" width="250px" align="center">
   </samp>
 </p>

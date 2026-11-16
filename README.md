@@ -4,12 +4,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 
 <p align="center">
-  <a href="mailto:dlblossom@proton.me">
+  <a href="mailto:alex.qdlf@gmail.com">
     <img src="https://img.shields.io/badge/-mail-c14438?style=social&logo=Gmail&logoColor=red" alt="Gmail">
   </a>
-  <a href="https://substack.com/@alexqdlf/notes">
+  <a href="https://dev.to/truebloss">
     <!-- <img src="https://img.shields.io/badge/@alexqdlf-black?style=flat&logo=medium&logoColor=white" alt="Medium"> -->
-    <img src="https://img.shields.io/badge/@alexqdlf-FF6719?logo=substack&logoColor=fff" alt="Substack">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" alt="dev.to">
     </a>
 </p>
 

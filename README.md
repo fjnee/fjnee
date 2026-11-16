@@ -14,7 +14,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </p>
 
 <h4 align="center">
-  <samp><strong><mark> into agentic ai and backend stuffs.</mark></strong></samp>
+  <samp><strong><mark> into agentic ai and backend stuff.</mark></strong></samp>
 </h4>
 
 
